@@ -112,7 +112,7 @@ if prompt:
                 'content': f"Come valuti questa risposta? {response_text}",
             },
         ])
-        
+           
         print(response)
 
         # Salva la risposta completa nella sessione
