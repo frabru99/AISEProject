@@ -100,7 +100,21 @@ if prompt:
             response_text += word + " "
             response_placeholder.markdown(response_text)
             time.sleep(0.05)  # Simula il tempo di risposta
+
+        #mandiamo la risposta di llama a deepseek per valutare la qualità della risposta 
+        client = Client(
+            host='http://localhost:11434/',
+            headers={'Content-Type': 'application/json'}
+        )
+        response = client.chat(model='deepseek-r1:8b', messages=[
+            {
+                'role': 'user',
+                'content': f"Come valuti questa risposta? {response_text}",
+            },
+        ])
         
+        print(response)
+
         # Salva la risposta completa nella sessione
         st.session_state.messages.append({"role": "assistant", "content": response_text})
 
