@@ -1,2 +1,2 @@
 # LightPrivacy
-![LIGHT PRIVACY](https://github.com/user-attachments/assets/bf6bdb9e-2f4c-4127-8823-bad411139d74)
+![LIGHT PRIVACY RESHAPED](https://github.com/user-attachments/assets/2ac2887a-f132-41ea-8790-45c95a5c301a)
