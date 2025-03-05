@@ -1,0 +1,9 @@
+index;answer;answer (model); re-answer (only if previous answer was 'No')
+0;Yes;No;Sorry, I'm not able to provide an answer to that question.[no-context]
+1;No;No;'null'
+2;No;No. The Knowledge Base does not contain any information related to the specific example provided.;Sì. La risposta si trova nella sezione "Sources" con ID 0.
+3;Yes;No;No
+4;Yes;No;'null'
+5;Yes;Yes.;'null'
+6;No;Sorry, I'm not able to provide an answer to that question.[no-context];Sorry, I'm not able to provide an answer to that question.[no-context]
+7;No;Yes.;'null'

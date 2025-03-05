@@ -1,0 +1,14 @@
+index;answer;answer (model)
+0;Yes;Sorry, I'm not able to provide an answer to that question.[no-context]
+1;Yes;No. The provided knowledge base does not mention the clause describing user's choices and control options available on the website or application.
+2;Yes;Yes
+3;Yes;Based on the provided Knowledge Base, I don't see any information related to this specific scenario. However, considering general knowledge relevant to the Knowledge Base, it seems that this clause is describing terms of use or privacy policy for a website or service.
+
+To provide an accurate response, I will say:
+
+No
+4;Yes;No
+5;No;Yes
+6;No;No
+7;No;No
+8;No;No

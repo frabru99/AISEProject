@@ -1,0 +1,9 @@
+index;answer;answer (model); re-answer (only if previous answer was 'No')
+0;Yes;Sorry, I'm not able to provide an answer to that question.[no-context];Sorry, I'm not able to provide an answer to that question.[no-context]
+1;Yes;No;'null'
+2;Yes;Yes.;'null'
+3;Yes;No;'null'
+4;No;Sorry, I'm not able to provide an answer to that question.[no-context];Sorry, I'm not able to provide an answer to that question.[no-context]
+5;No;No;'null'
+6;No;Sorry, I'm not able to provide an answer to that question.[no-context];Sì
+7;No;Sorry, I'm not able to provide an answer to that question.[no-context];Sorry, I'm not able to provide an answer to that question.[no-context]
