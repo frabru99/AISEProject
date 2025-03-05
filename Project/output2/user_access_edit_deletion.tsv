@@ -1,0 +1,8 @@
+index;answer;answer (model); re-answer (only if previous answer was 'No')
+0;Yes;Sorry, I'm not able to provide an answer to that question.[no-context];Sì. La clausola descrive come è possibile modificare le informazioni fornite, ma non descrive in modo dettagliato le misure di protezione delle informazioni degli utenti.
+1;Yes;No;'null'
+2;Yes;No. This description does not match the clause in the Knowledge Base which describes how user information is protected.;'null'
+3;No;Yes.;'null'
+4;No;No.;Sì.
+5;No;No.;'null'
+6;No;Yes.;Yes.
