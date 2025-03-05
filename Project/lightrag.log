@@ -3368,3 +3368,23 @@
 2025-03-04 16:32:05,536 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
 2025-03-04 16:32:19,797 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
 2025-03-04 16:32:19,798 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-05 11:05:39,955 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-05 11:05:40,070 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-05 11:05:40,081 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-05 11:05:40,091 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-05 11:06:16,726 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-05 11:06:16,795 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-05 11:06:16,795 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-05 11:06:16,806 - lightrag - INFO - No new unique documents were found.
+2025-03-05 11:06:16,806 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-05 11:06:25,506 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-05 11:06:25,549 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-05 11:06:25,555 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-05 11:06:25,561 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-05 11:06:25,582 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-05 11:06:25,640 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-05 11:06:25,640 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-05 11:06:25,673 - lightrag - INFO - No new unique documents were found.
+2025-03-05 11:06:25,673 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-05 11:06:25,689 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-05 11:06:25,689 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
