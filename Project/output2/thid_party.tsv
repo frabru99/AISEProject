@@ -1,0 +1,10 @@
+index;answer;answer (model); re-answer (only if previous answer was 'No')
+0;Yes;Sorry, I'm not able to provide an answer to that question.[no-context];No
+1;Yes;No;'null'
+2;Yes;No;'null'
+3;No;No 
+
+However, I can mention that the Knowledge Base does have information related to data storage and retention. According to Article 5 (Storage limitation) in the Knowledge Base, personal data may be stored for longer periods if they will be processed solely for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes.;'null'
+4;No;Yes.;No.
+5;No;No;'null'
+6;No;No;'null'
