@@ -4,7 +4,7 @@
 </p>
 
 
-Every day, millions of users accept terms of service and privacy policies without fully reading or understanding their content. Due to their complexity and length, these documents often obscure crucial details about data processing practices, exposing users to potential privacy risks.
+Every day, millions of users accept terms of service and privacy policies without fully reading or understanding their content. Due to their complexity, length and verbosity these documents often obscure crucial details about data processing practices, exposing users to potential privacy risks.
 
 The General Data Protection Regulation (GDPR) establishes strict requirements for transparency, consent, and data processing, aiming to empower individuals with control over their personal data. However, the legal language used in privacy policies and regulatory texts is often challenging for non-experts, making it difficult to determine whether a policy truly complies with GDPR standards.
 
