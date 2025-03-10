@@ -18,3 +18,6 @@ The system is built upon **LightRAG**, a retrieval-augmented generation framewor
 - **Evaluation Model** – Ensures response consistency, faithfulness, and causality, enhancing trust in the AI’s decisions.
 
 By combining causal reasoning with retrieval-augmented generation, LightPrivacy bridges the gap between legal complexity and practical usability, providing an accessible, interpretable, and reliable tool for GDPR compliance verification.
+
+# Credits 
+- https://github.com/HKUDS/LightRAG
