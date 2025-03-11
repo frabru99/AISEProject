@@ -1,0 +1,9 @@
+index;answer;answer (model); re-answer (only if previous answer was 'No')
+0;Yes;Sorry, I'm not able to provide an answer to that question.[no-context];No
+1;Yes;Sorry, I'm not able to provide an answer to that question.[no-context];Sorry, I'm not able to provide an answer to that question.[no-context]
+2;Yes;Yes. The clause mentions "nationwide credit reporting agencies" and refers to a specific website (www.optoutprescreen.com) and phone number (1-888-567-8688), indicating that the practice described pertains only to users in the United States, specifically those who are concerned with nationwide credit reporting agencies.;'null'
+3;Yes;Yes;'null'
+4;No;No;'null'
+5;No;No.;'null'
+6;No;Sorry, I'm not able to provide an answer to that question.[no-context];Sì. La clausola descrive pratiche che si riferiscono a un gruppo specifico di utenti (ad esempio, i minori, gli europei o i residenti della California).
+7;No;Yes. The clause mentions "children" as a specific group of users.;Yes. The clause mentions "children" as a specific group of users.

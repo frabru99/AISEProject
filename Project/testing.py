@@ -7,11 +7,16 @@ from ollama import Client
 specific_query =["Does the clause describe how and why a service provider collects user information?", "Does the clause describe how user information may be shared with or collected by third parties?", "Does the clause describe the choices and control options available to users?", "Does the clause describe if and how users may access, edit, or delete their information?", "Does the clause describe how long user information is stored?", "Does the clause describe how user information is protected?", "Does the clause describe practices that pertain only to a specific group of users (e.g., children, Europeans, or California residents)?"]
 i=0
 
-for file in os.listdir("./File_Testing"):
+#solo per il few-shot
+for file in os.listdir("./Input_Few_Shot"):
+    files_few_shot_= pd.read_csv(os.path.join("./Input_Few_Shot",file), sep=';', header=0)
+    for index, row in files_few_shot_.iterrows():
+        rag.query(f" 'Question: {row.to_list()[2]}'. Answer: {row.to_list()[1]}")
+
     files_test = pd.read_csv(os.path.join("./File_Testing",file), sep=';', header=0)
-    with open("./output2" + "/" + file, "w", encoding="utf-8") as f:
+    with open("./output_few_shot" + "/" + file, "w", encoding="utf-8") as f:
         f.write("index;answer;answer (model); re-answer (only if previous answer was 'No')\n")
-    with open("./output2" + "/" + file, "a", encoding="utf-8") as f:
+    with open("./output_few_shot" + "/" + file, "a", encoding="utf-8") as f:
         for index, row in files_test.iterrows():
             print(row.to_list()[2])
             res=rag.query(f"{specific_query[i]} '{row.to_list()[2]}'. Just answer 'yes' or 'no'")
@@ -45,4 +50,3 @@ for file in os.listdir("./File_Testing"):
             else:
                 f.write(f"{row.to_list()[0]};{row.to_list()[1]};{res};'null'\n")
     i=i+1
-

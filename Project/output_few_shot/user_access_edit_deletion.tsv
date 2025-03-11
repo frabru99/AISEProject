@@ -1,0 +1,8 @@
+index;answer;answer (model); re-answer (only if previous answer was 'No')
+0;Yes;No;'null'
+1;Yes;No;'null'
+2;Yes;Yes.;'null'
+3;No;Yes.;'null'
+4;No;No;Sorry, I'm not able to provide an answer to that question.[no-context]
+5;No;No;'null'
+6;No;No;Sì. La clausola descrive alcune misure per proteggere l'informazione dei utenti come ad esempio la verifica dell'identità tramite password, user ID e documenti d'identità.

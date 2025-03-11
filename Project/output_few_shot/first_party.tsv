@@ -1,0 +1,10 @@
+index;answer;answer (model); re-answer (only if previous answer was 'No')
+0;Yes;Yes.;No.
+1;Yes;No;'null'
+2;Yes;No;'null'
+3;Yes;No.;No.
+4;Yes;No;No.
+5;No;No;Sì. La clausola descrive le scelte di controllo disponibili per gli utenti riguardo alle informazioni che vengono condivise con i fornitori di servizi terzi.
+6;No;No;'null'
+7;No;No;No
+8;No;Yes;'null'

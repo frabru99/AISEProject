@@ -1,0 +1,3 @@
+index;answer;answer (model); re-answer (only if previous answer was 'No')
+0;Yes;Sorry, I'm not able to provide an answer to that question.[no-context];'null'
+1;No;No;'null'

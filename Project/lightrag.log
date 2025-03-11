@@ -3388,3 +3388,1581 @@
 2025-03-05 11:06:25,673 - lightrag - INFO - All documents have been processed or are duplicates
 2025-03-05 11:06:25,689 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
 2025-03-05 11:06:25,689 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-05 11:06:55,672 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-05 11:06:55,673 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-05 11:07:24,920 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-05 11:07:24,921 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-05 11:07:45,283 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-05 11:07:45,284 - lightrag - INFO - Query edges: Risposta, Toccare, top_k: 60, cosine: 0.2
+2025-03-05 11:07:49,680 - lightrag - INFO - Global query uses 38 entites, 60 relations, 3 chunks
+2025-03-05 11:08:54,234 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-05 15:58:42,893 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-05 15:58:43,019 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-05 15:58:43,029 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-05 15:58:43,039 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-05 15:59:25,638 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-05 15:59:25,801 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-05 15:59:25,803 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-05 15:59:25,836 - lightrag - INFO - No new unique documents were found.
+2025-03-05 15:59:25,838 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-05 16:08:09,274 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-05 16:08:09,289 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-05 16:08:09,291 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-05 16:08:09,293 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-05 16:08:09,299 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-05 16:08:09,313 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-05 16:08:09,314 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-05 16:08:09,317 - lightrag - INFO - No new unique documents were found.
+2025-03-05 16:08:09,319 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-05 16:08:09,321 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-05 16:08:09,322 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-05 16:08:35,799 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-05 16:08:35,801 - lightrag - INFO - Query edges: Raccoglienza dati personali, Consenso esplicito, GDPR, top_k: 60, cosine: 0.2
+2025-03-05 16:08:40,369 - lightrag - INFO - Global query uses 40 entites, 60 relations, 3 chunks
+2025-03-05 16:08:53,453 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-05 16:09:31,282 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-05 16:09:31,284 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-05 16:09:50,663 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-05 16:09:50,663 - lightrag - INFO - Query edges: Conformità al GDPR, Raccolta di dati personali, top_k: 60, cosine: 0.2
+2025-03-05 16:09:54,608 - lightrag - INFO - Global query uses 37 entites, 60 relations, 3 chunks
+2025-03-05 16:11:44,829 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-05 16:16:51,042 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-05 16:16:51,168 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-05 16:16:51,171 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-05 16:16:51,173 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-05 16:17:03,640 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-05 16:17:03,669 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-05 16:17:03,670 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-05 16:17:03,691 - lightrag - INFO - No new unique documents were found.
+2025-03-05 16:17:03,691 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-05 16:18:30,731 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-05 16:18:30,748 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-05 16:18:30,749 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-05 16:18:30,753 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-05 16:18:30,762 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-05 16:18:30,781 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-05 16:18:30,781 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-05 16:18:30,783 - lightrag - INFO - No new unique documents were found.
+2025-03-05 16:18:30,783 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-05 16:18:30,787 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-05 16:18:30,787 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-05 16:18:53,336 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-05 16:18:53,337 - lightrag - INFO - Query edges: Conformità al GDPR, Raccolta dati personali, Consenso esplicito, top_k: 60, cosine: 0.2
+2025-03-05 16:18:57,357 - lightrag - INFO - Global query uses 37 entites, 60 relations, 3 chunks
+2025-03-05 16:19:09,385 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-05 16:19:46,794 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-05 16:19:46,795 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-05 16:20:10,349 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-05 16:20:10,351 - lightrag - INFO - Query edges: Raccolta dati personali, GDPR, Consenso esplicito, top_k: 60, cosine: 0.2
+2025-03-05 16:20:14,491 - lightrag - INFO - Global query uses 38 entites, 60 relations, 3 chunks
+2025-03-05 16:21:32,943 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-05 16:23:16,544 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-05 16:23:16,721 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-05 16:23:16,725 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-05 16:23:16,730 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-05 16:23:29,753 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-05 16:23:29,782 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-05 16:23:29,783 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-05 16:23:29,786 - lightrag - INFO - No new unique documents were found.
+2025-03-05 16:23:29,787 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-05 16:25:35,967 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-05 16:25:35,993 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-05 16:25:35,997 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-05 16:25:36,001 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-05 16:25:36,013 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-05 16:25:36,038 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-05 16:25:36,039 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-05 16:25:36,045 - lightrag - INFO - No new unique documents were found.
+2025-03-05 16:25:36,046 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-05 16:25:36,049 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-05 16:25:36,051 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-05 16:26:06,005 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-05 16:26:06,006 - lightrag - INFO - Query edges: Dati personali, Consentimento, GDPR, Azienda, top_k: 60, cosine: 0.2
+2025-03-05 16:26:10,770 - lightrag - INFO - Global query uses 48 entites, 60 relations, 3 chunks
+2025-03-05 16:26:56,383 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-05 16:32:13,691 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-05 16:32:13,841 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-05 16:32:13,843 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-05 16:32:13,847 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-05 16:32:26,907 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-05 16:32:26,939 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-05 16:32:26,940 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-05 16:32:26,944 - lightrag - INFO - No new unique documents were found.
+2025-03-05 16:32:26,944 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-05 16:33:14,735 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-05 16:33:14,749 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-05 16:33:14,752 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-05 16:33:14,754 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-05 16:33:14,760 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-05 16:33:14,776 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-05 16:33:14,776 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-05 16:33:14,779 - lightrag - INFO - No new unique documents were found.
+2025-03-05 16:33:14,780 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-05 16:33:14,786 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-05 16:33:14,787 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-05 16:33:32,231 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-05 16:33:32,231 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-05 16:34:21,912 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-05 16:34:21,987 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-05 16:34:22,065 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-05 16:34:22,116 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-05 16:34:22,287 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-05 16:34:22,556 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-05 16:34:22,557 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-05 16:34:22,605 - lightrag - INFO - No new unique documents were found.
+2025-03-05 16:34:22,606 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-05 16:36:45,765 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-05 16:36:45,807 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-05 16:36:45,811 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-05 16:36:45,818 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-05 16:36:45,839 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-05 16:36:45,882 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-05 16:36:45,883 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-05 16:36:45,891 - lightrag - INFO - No new unique documents were found.
+2025-03-05 16:36:45,892 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-05 16:36:45,900 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-05 16:36:45,901 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-05 16:37:12,591 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-05 16:37:12,592 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-05 16:37:34,368 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-05 16:37:34,453 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-05 16:37:34,488 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-05 16:37:34,534 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-05 16:37:34,664 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-05 16:37:34,891 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-05 16:37:34,892 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-05 16:37:34,936 - lightrag - INFO - No new unique documents were found.
+2025-03-05 16:37:34,937 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-05 16:37:58,101 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-05 16:37:58,143 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-05 16:37:58,154 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-05 16:37:58,162 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-05 16:37:58,183 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-05 16:37:58,232 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-05 16:37:58,233 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-05 16:37:58,240 - lightrag - INFO - No new unique documents were found.
+2025-03-05 16:37:58,241 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-05 16:37:58,252 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-05 16:37:58,254 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-05 16:39:48,766 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-05 16:39:48,769 - lightrag - INFO - Query edges: Raccolta dati personali, Consenso esplicito, GDPR, top_k: 60, cosine: 0.2
+2025-03-05 16:39:53,764 - lightrag - INFO - Global query uses 38 entites, 60 relations, 3 chunks
+2025-03-05 16:40:05,810 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-05 16:40:29,236 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-05 16:40:29,540 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-05 16:40:29,596 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-05 16:40:29,645 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-05 16:40:29,816 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-05 16:40:30,208 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-05 16:40:30,210 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-05 16:40:30,239 - lightrag - INFO - No new unique documents were found.
+2025-03-05 16:40:30,239 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-05 16:41:46,529 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-05 16:41:46,550 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-05 16:41:46,552 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-05 16:41:46,554 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-05 16:41:46,559 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-05 16:41:46,582 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-05 16:41:46,582 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-05 16:41:46,587 - lightrag - INFO - No new unique documents were found.
+2025-03-05 16:41:46,590 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-05 16:41:46,595 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-05 16:41:46,596 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-05 16:42:54,089 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-05 16:42:54,090 - lightrag - INFO - Query edges: Raccolta dati personali, Consenso esplicito, Regolamento generale sulla protezione dei dati (GDPR), Articolo 6, top_k: 60, cosine: 0.2
+2025-03-05 16:43:09,939 - lightrag - INFO - Global query uses 37 entites, 60 relations, 3 chunks
+2025-03-05 16:45:12,152 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 11:06:10,833 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:06:10,937 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-06 11:06:10,947 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:06:10,971 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:06:56,873 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:06:57,036 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:06:57,037 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:06:57,071 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:06:57,072 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:08:35,862 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:08:35,910 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-06 11:08:35,918 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:08:35,926 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:08:35,961 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:08:36,014 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:08:36,015 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:08:36,026 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:08:36,027 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:08:36,042 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-06 11:08:36,043 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-06 11:09:39,919 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:09:39,970 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-06 11:09:39,975 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:09:39,982 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:09:40,009 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:09:40,066 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:09:40,066 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:09:40,079 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:09:40,080 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:09:44,477 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:09:44,525 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-06 11:09:44,532 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:09:44,539 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:09:44,561 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:09:44,626 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:09:44,630 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:09:44,639 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:09:44,640 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:09:44,649 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-06 11:09:44,651 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-06 11:09:59,912 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-06 11:09:59,913 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-06 11:10:44,801 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:10:44,916 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-06 11:10:44,918 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:10:44,921 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:11:03,628 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:11:03,739 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:11:03,740 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:11:03,753 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:11:03,755 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:11:53,881 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:11:53,946 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-06 11:11:53,955 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:11:53,962 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:11:53,996 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:11:54,054 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:11:54,054 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:11:54,064 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:11:54,066 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:11:54,078 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-06 11:11:54,079 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-06 11:12:06,013 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-06 11:12:06,014 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-06 11:12:15,583 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:12:15,650 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-06 11:12:15,657 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:12:15,664 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:12:15,688 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:12:15,737 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:12:15,738 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:12:15,748 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:12:15,748 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:12:32,652 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:12:32,702 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-06 11:12:32,709 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:12:32,715 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:12:32,738 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:12:32,790 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:12:32,790 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:12:32,800 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:12:32,801 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:12:32,810 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-06 11:12:32,811 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-06 11:12:51,684 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-06 11:12:51,685 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-06 11:13:28,922 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-06 11:13:28,923 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-06 11:13:56,390 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 11:13:56,391 - lightrag - INFO - Query edges: Risposta sbagliata, Conformità al GDPR, top_k: 60, cosine: 0.2
+2025-03-06 11:14:00,646 - lightrag - INFO - Global query uses 32 entites, 60 relations, 3 chunks
+2025-03-06 11:15:02,713 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 11:17:48,994 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:17:49,117 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-06 11:17:49,119 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:17:49,122 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:18:08,805 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:18:08,895 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:18:08,898 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:18:08,909 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:18:08,910 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:18:42,891 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:18:42,953 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-06 11:18:42,961 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:18:42,969 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:18:42,998 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:18:43,055 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:18:43,056 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:18:43,068 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:18:43,069 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:18:43,082 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:query)
+2025-03-06 11:18:43,084 - lightrag - INFO - Non-embedding cached missed(mode:hybrid type:keywords)
+2025-03-06 11:19:01,152 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-06 11:19:01,152 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-06 11:19:22,876 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:19:22,996 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-06 11:19:22,998 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:19:23,000 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:19:41,691 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:19:41,772 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:19:41,773 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:19:41,785 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:19:41,785 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:20:27,670 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:20:27,721 - lightrag - INFO - Load KV llm_response_cache with 3 data
+2025-03-06 11:20:27,728 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:20:27,735 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:20:27,762 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:20:27,810 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:20:27,810 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:20:27,819 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:20:27,821 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:20:27,833 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-06 11:20:27,833 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-06 11:21:03,696 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-06 11:21:03,697 - lightrag - WARNING - Both high-level and low-level keywords are empty
+2025-03-06 11:22:06,262 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 11:25:40,589 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:25:40,709 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 11:25:40,711 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:25:40,714 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:25:58,660 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:25:58,751 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:25:58,753 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:25:58,764 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:25:58,765 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:27:34,425 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:27:34,471 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 11:27:34,477 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:27:34,483 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:27:34,507 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:27:34,564 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:27:34,565 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:27:34,574 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:27:34,576 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:27:34,587 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-06 11:27:34,590 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-06 11:27:54,773 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-06 11:27:54,774 - lightrag - WARNING - Both high-level and low-level keywords are empty
+2025-03-06 11:28:22,322 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-06 11:28:22,325 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-06 11:28:55,773 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 11:28:55,774 - lightrag - INFO - Query edges: Dati personali, GDPR, Consenso esplicito, top_k: 60, cosine: 0.2
+2025-03-06 11:28:59,979 - lightrag - INFO - Global query uses 45 entites, 60 relations, 3 chunks
+2025-03-06 11:29:58,181 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 11:31:47,552 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:31:47,634 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 11:31:47,642 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:31:47,651 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:31:47,682 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:31:47,740 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:31:47,741 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:31:47,751 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:31:47,751 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:32:09,005 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:32:09,105 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 11:32:09,107 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:32:09,109 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:32:29,290 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:32:29,364 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:32:29,365 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:32:29,375 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:32:29,377 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:32:50,861 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:32:50,930 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 11:32:50,937 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:32:50,943 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:32:50,970 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:32:51,024 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:32:51,026 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:32:51,038 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:32:51,039 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:32:51,052 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-06 11:32:51,053 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-06 11:33:06,366 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-06 11:33:06,367 - lightrag - WARNING - Both high-level and low-level keywords are empty
+2025-03-06 11:33:38,403 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-06 11:33:38,404 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-06 11:33:56,023 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 11:33:56,026 - lightrag - INFO - Query edges: Dati personali, Consenso esplicito, GDPR, top_k: 60, cosine: 0.2
+2025-03-06 11:34:00,480 - lightrag - INFO - Global query uses 38 entites, 60 relations, 3 chunks
+2025-03-06 11:35:15,326 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 11:36:11,986 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:36:12,109 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 11:36:12,111 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:36:12,113 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:36:32,360 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:36:32,449 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:36:32,451 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:36:32,462 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:36:32,463 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:38:01,002 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:38:01,049 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 11:38:01,055 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:38:01,061 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:38:01,086 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:38:01,140 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:38:01,141 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:38:01,152 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:38:01,153 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:38:01,165 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-06 11:38:01,166 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-06 11:38:22,068 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-06 11:38:22,068 - lightrag - WARNING - Both high-level and low-level keywords are empty
+2025-03-06 11:38:48,649 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 11:39:34,709 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:39:34,824 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 11:39:34,826 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:39:34,828 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:39:55,127 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:39:55,177 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:39:55,177 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:39:55,184 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:39:55,184 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:41:40,557 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:41:40,627 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 11:41:40,634 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:41:40,641 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:41:40,667 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:41:40,718 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:41:40,720 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:41:40,733 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:41:40,734 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:41:40,746 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-06 11:41:40,748 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-06 11:42:25,940 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 11:42:25,941 - lightrag - INFO - Query nodes: Dati personali, Articolo 6, Raccolta informazioni senza consenso, top_k: 60, cosine: 0.2
+2025-03-06 11:42:30,495 - lightrag - INFO - Query edges: Raccolta dati personali, Consenso esplicito, GDPR, top_k: 60, cosine: 0.2
+2025-03-06 11:42:33,498 - lightrag - INFO - Global query uses 38 entites, 60 relations, 3 chunks
+2025-03-06 11:42:33,537 - lightrag - INFO - Local query uses 60 entites, 92 relations, 3 chunks
+2025-03-06 11:43:18,787 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 11:46:16,728 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:46:16,946 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 11:46:16,949 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:46:16,952 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:46:45,606 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:46:45,705 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:46:45,707 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:46:45,723 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:46:45,724 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:48:06,949 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:48:07,008 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 11:48:07,014 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:48:07,021 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:48:07,045 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:48:07,092 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:48:07,093 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:48:07,102 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:48:07,103 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:48:07,111 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-06 11:48:07,112 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-06 11:48:42,094 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 11:48:42,095 - lightrag - INFO - Query nodes: Dati personali, Azienda, Articolo 6, Raccolta di dati senza consenso, top_k: 60, cosine: 0.2
+2025-03-06 11:48:46,587 - lightrag - INFO - Query edges: Raccolta di dati personali, Conformità al GDPR, Consenso esplicito, top_k: 60, cosine: 0.2
+2025-03-06 11:48:49,536 - lightrag - INFO - Global query uses 35 entites, 60 relations, 3 chunks
+2025-03-06 11:48:49,571 - lightrag - INFO - Local query uses 60 entites, 83 relations, 3 chunks
+2025-03-06 11:49:21,494 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:49:46,840 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:49:46,962 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 11:49:46,966 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:49:46,969 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:50:18,150 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:50:18,237 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:50:18,238 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:50:18,250 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:50:18,251 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:51:56,780 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:51:56,829 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 11:51:56,836 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:51:56,843 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:51:56,866 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:51:56,919 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:51:56,920 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:51:56,930 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:51:56,931 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:51:56,943 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-06 11:51:56,945 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-06 11:52:28,290 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 11:52:28,291 - lightrag - INFO - Query nodes: Consenso esplicito, Articolo 6 del GDPR, Dati personali, Raccolta di dati, top_k: 60, cosine: 0.2
+2025-03-06 11:52:32,896 - lightrag - INFO - Query edges: Raccolta dati personali, Conformità al GDPR, top_k: 60, cosine: 0.2
+2025-03-06 11:52:35,878 - lightrag - INFO - Global query uses 37 entites, 60 relations, 3 chunks
+2025-03-06 11:52:35,914 - lightrag - INFO - Local query uses 60 entites, 84 relations, 3 chunks
+2025-03-06 11:53:19,598 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 11:54:01,732 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:54:10,855 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:54:10,855 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:54:10,951 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 11:54:10,962 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 11:54:10,965 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:54:10,966 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:54:10,968 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:54:10,969 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:54:21,415 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:54:21,418 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:54:21,455 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:54:21,456 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:54:21,456 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:54:21,456 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:54:21,461 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:54:21,461 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:54:21,462 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:54:21,462 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:55:44,119 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:55:44,169 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 11:55:44,175 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:55:44,182 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:55:44,209 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:55:44,265 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:55:44,265 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:55:44,276 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:55:44,277 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 11:55:44,289 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-06 11:55:44,291 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-06 11:56:14,620 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 11:56:14,621 - lightrag - INFO - Query nodes: Dati sensibili, Art. 6 GDPR, Obbligo legale, Contratto, Legittimo interesse, Consenso implicito, top_k: 60, cosine: 0.2
+2025-03-06 11:56:19,224 - lightrag - INFO - Query edges: Raccolta di dati personali, GDPR, Consenso esplicito, top_k: 60, cosine: 0.2
+2025-03-06 11:56:22,233 - lightrag - INFO - Global query uses 38 entites, 60 relations, 3 chunks
+2025-03-06 11:56:22,266 - lightrag - INFO - Local query uses 60 entites, 76 relations, 3 chunks
+2025-03-06 11:57:05,658 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 11:58:48,294 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:58:54,230 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 11:58:54,347 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 11:58:54,349 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 11:58:54,353 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 11:59:04,661 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 11:59:04,690 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 11:59:04,691 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 11:59:04,696 - lightrag - INFO - No new unique documents were found.
+2025-03-06 11:59:04,696 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 12:00:30,758 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 12:00:30,807 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 12:00:30,812 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 12:00:30,818 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 12:00:30,841 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 12:00:30,892 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 12:00:30,893 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 12:00:30,902 - lightrag - INFO - No new unique documents were found.
+2025-03-06 12:00:30,903 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 12:00:30,918 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-06 12:00:30,920 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-06 12:00:55,057 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 12:00:55,057 - lightrag - INFO - Query nodes: Art. 6 GDPR, Obbligo legale, Contratto, Legittimo interesse, Dati sensibili, Art. 9 GDPR, top_k: 60, cosine: 0.2
+2025-03-06 12:00:59,601 - lightrag - INFO - Query edges: Raccolta dati personali, GDPR, Consenso esplicito, top_k: 60, cosine: 0.2
+2025-03-06 12:01:02,593 - lightrag - INFO - Global query uses 38 entites, 60 relations, 3 chunks
+2025-03-06 12:01:02,626 - lightrag - INFO - Local query uses 60 entites, 83 relations, 3 chunks
+2025-03-06 12:01:54,293 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 14:39:51,268 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 14:39:51,382 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 14:39:51,384 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 14:39:51,387 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 14:40:17,533 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 14:40:17,628 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 14:40:17,629 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 14:40:17,673 - lightrag - INFO - No new unique documents were found.
+2025-03-06 14:40:17,674 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 14:45:18,559 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 14:45:18,573 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 14:45:18,574 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 14:45:18,576 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 14:45:18,582 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 14:45:18,595 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 14:45:18,596 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 14:45:18,600 - lightrag - INFO - No new unique documents were found.
+2025-03-06 14:45:18,600 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 14:45:18,606 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-06 14:45:18,607 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-06 14:45:51,846 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 14:45:51,846 - lightrag - INFO - Query nodes: Dati sensibili, Art. 6 GDPR, Obbligo legale, Contratto, Legittimo interesse, top_k: 60, cosine: 0.2
+2025-03-06 14:45:55,451 - lightrag - INFO - Query edges: Raccolta dati personali, Conformità GDPR, Consenso esplicito, top_k: 60, cosine: 0.2
+2025-03-06 14:45:57,696 - lightrag - INFO - Global query uses 34 entites, 60 relations, 3 chunks
+2025-03-06 14:45:57,704 - lightrag - INFO - Local query uses 60 entites, 78 relations, 3 chunks
+2025-03-06 14:46:45,084 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 14:48:18,142 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 14:48:18,177 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 14:48:18,179 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 14:48:18,182 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 14:48:18,188 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 14:48:18,201 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 14:48:18,202 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 14:48:18,204 - lightrag - INFO - No new unique documents were found.
+2025-03-06 14:48:18,205 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 14:48:18,208 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-06 14:48:18,209 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-06 14:48:49,992 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 14:48:50,088 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 14:48:50,090 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 14:48:50,092 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 14:49:13,443 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 14:49:13,517 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 14:49:13,518 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 14:49:13,529 - lightrag - INFO - No new unique documents were found.
+2025-03-06 14:49:13,530 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 14:49:41,910 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 14:49:41,967 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 14:49:41,975 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 14:49:41,981 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 14:49:42,006 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 14:49:42,058 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 14:49:42,059 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 14:49:42,069 - lightrag - INFO - No new unique documents were found.
+2025-03-06 14:49:42,070 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 14:49:42,081 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-06 14:49:42,082 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-06 14:50:20,111 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 14:50:20,112 - lightrag - INFO - Query nodes: Dati sensibili, Art. 6 GDPR, Art. 9 GDPR, Obbligo legale, Contratto, Legittimo interesse, top_k: 60, cosine: 0.2
+2025-03-06 14:50:24,895 - lightrag - INFO - Query edges: Raccolta dati personali, GDPR, Consenso esplicito, top_k: 60, cosine: 0.2
+2025-03-06 14:50:27,969 - lightrag - INFO - Global query uses 38 entites, 60 relations, 3 chunks
+2025-03-06 14:50:28,004 - lightrag - INFO - Local query uses 60 entites, 80 relations, 3 chunks
+2025-03-06 14:51:26,622 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 14:52:17,447 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 14:52:17,559 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 14:52:17,561 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 14:52:17,563 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 14:52:36,638 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 14:52:36,731 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 14:52:36,732 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 14:52:36,745 - lightrag - INFO - No new unique documents were found.
+2025-03-06 14:52:36,746 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 14:53:49,213 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 14:53:49,260 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 14:53:49,265 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 14:53:49,272 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 14:53:49,297 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 14:53:49,351 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 14:53:49,352 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 14:53:49,361 - lightrag - INFO - No new unique documents were found.
+2025-03-06 14:53:49,363 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 14:53:49,373 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-06 14:53:49,375 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-06 14:54:16,968 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 14:54:16,970 - lightrag - INFO - Query nodes: Art. 6 GDPR, Obbligo legale, Contratto, Legittimo interesse, Dati sensibili, Art. 9 GDPR, top_k: 60, cosine: 0.2
+2025-03-06 14:54:21,626 - lightrag - INFO - Query edges: Dati personali, Consenso esplicito, GDPR, top_k: 60, cosine: 0.2
+2025-03-06 14:54:24,693 - lightrag - INFO - Global query uses 38 entites, 60 relations, 3 chunks
+2025-03-06 14:54:24,727 - lightrag - INFO - Local query uses 60 entites, 83 relations, 3 chunks
+2025-03-06 14:55:04,661 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 14:56:26,558 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 14:56:26,668 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 14:56:26,670 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 14:56:26,672 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 14:56:45,640 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 14:56:45,728 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 14:56:45,729 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 14:56:45,741 - lightrag - INFO - No new unique documents were found.
+2025-03-06 14:56:45,742 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 14:57:34,193 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 14:57:34,241 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 14:57:34,248 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 14:57:34,254 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 14:57:34,277 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 14:57:34,328 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 14:57:34,329 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 14:57:34,340 - lightrag - INFO - No new unique documents were found.
+2025-03-06 14:57:34,341 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 14:57:34,355 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-06 14:57:34,357 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-06 14:58:13,120 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 14:58:13,121 - lightrag - INFO - Query nodes: Riserva di legge, Esecuzione del contratto, Obbligo legale, Dati sensibili, Minimizzazione dei dati, Trasparenza, Necessità dei trattamenti, top_k: 60, cosine: 0.2
+2025-03-06 14:58:17,658 - lightrag - INFO - Query edges: Raccolta dati personali, GDPR, Consenso esplicito, Base giuridica, Trattamento dei dati sensibili, top_k: 60, cosine: 0.2
+2025-03-06 14:58:20,699 - lightrag - INFO - Global query uses 36 entites, 60 relations, 3 chunks
+2025-03-06 14:58:20,735 - lightrag - INFO - Local query uses 60 entites, 89 relations, 3 chunks
+2025-03-06 14:58:58,874 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 14:58:58,985 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 14:58:58,987 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 14:58:58,990 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 14:59:19,314 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 14:59:19,397 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 14:59:19,399 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 14:59:19,411 - lightrag - INFO - No new unique documents were found.
+2025-03-06 14:59:19,413 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 15:00:20,761 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 15:00:20,802 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 15:00:20,809 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 15:00:20,815 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 15:00:20,841 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 15:00:20,898 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 15:00:20,900 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 15:00:20,913 - lightrag - INFO - No new unique documents were found.
+2025-03-06 15:00:20,914 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 15:00:20,925 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-06 15:00:20,927 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-06 15:00:25,948 - lightrag - INFO - Query nodes: Riserva di legge, Esecuzione del contratto, Obbligo legale, Dati sensibili, Minimizzazione dei dati, Trasparenza, Necessità dei trattamenti, top_k: 60, cosine: 0.2
+2025-03-06 15:00:28,926 - lightrag - INFO - Query edges: Raccolta dati personali, GDPR, Consenso esplicito, Base giuridica, Trattamento dei dati sensibili, top_k: 60, cosine: 0.2
+2025-03-06 15:00:32,064 - lightrag - INFO - Global query uses 36 entites, 60 relations, 3 chunks
+2025-03-06 15:00:32,103 - lightrag - INFO - Local query uses 60 entites, 89 relations, 3 chunks
+2025-03-06 15:01:41,749 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 15:01:41,858 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 15:01:41,861 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 15:01:41,863 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 15:02:00,543 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 15:02:00,617 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 15:02:00,618 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 15:02:00,629 - lightrag - INFO - No new unique documents were found.
+2025-03-06 15:02:00,632 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 15:03:28,416 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 15:03:28,474 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 15:03:28,481 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 15:03:28,487 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 15:03:28,510 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 15:03:28,560 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 15:03:28,561 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 15:03:28,571 - lightrag - INFO - No new unique documents were found.
+2025-03-06 15:03:28,572 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 15:03:28,581 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-06 15:03:28,582 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-06 15:03:54,112 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 15:03:54,114 - lightrag - INFO - Query nodes: consenso esplicito, base giuridica, dati sensibili, minimizzazione, trasparenza, top_k: 60, cosine: 0.2
+2025-03-06 15:03:58,547 - lightrag - INFO - Query edges: GDPR, data privacy, compliance, top_k: 60, cosine: 0.2
+2025-03-06 15:04:01,568 - lightrag - INFO - Global query uses 26 entites, 60 relations, 3 chunks
+2025-03-06 15:04:01,604 - lightrag - INFO - Local query uses 60 entites, 85 relations, 3 chunks
+2025-03-06 15:05:01,320 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 15:05:01,461 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 15:05:01,464 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 15:05:01,467 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 15:05:21,138 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 15:05:21,216 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 15:05:21,217 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 15:05:21,227 - lightrag - INFO - No new unique documents were found.
+2025-03-06 15:05:21,228 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 15:06:38,982 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 15:06:39,035 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 15:06:39,041 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 15:06:39,047 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 15:06:39,073 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 15:06:39,122 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 15:06:39,123 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 15:06:39,134 - lightrag - INFO - No new unique documents were found.
+2025-03-06 15:06:39,135 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 15:06:39,152 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-06 15:06:39,153 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-06 15:07:09,251 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 15:07:09,253 - lightrag - INFO - Query nodes: Consenso esplicito, Base legale per il trattamento dei dati, Esecuzione di un contratto, Obbligo legale, Interesse legittimo prevalente, Dati sensibili, Minimizzazione dei dati, Trasparenza del trattamento, top_k: 60, cosine: 0.2
+2025-03-06 15:07:13,691 - lightrag - INFO - Query edges: Conformità al GDPR, Raccolta dati personali senza consenso, Basi giuridiche per il trattamento dei dati, top_k: 60, cosine: 0.2
+2025-03-06 15:07:16,726 - lightrag - INFO - Global query uses 36 entites, 60 relations, 3 chunks
+2025-03-06 15:07:16,761 - lightrag - INFO - Local query uses 60 entites, 86 relations, 3 chunks
+2025-03-06 15:07:55,877 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-06 15:07:55,878 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-06 15:08:26,407 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 15:08:26,408 - lightrag - INFO - Query edges: Trattamento dei dati personali, GDPR, Consenso esplicito, Base giuridica, top_k: 60, cosine: 0.2
+2025-03-06 15:08:30,852 - lightrag - INFO - Global query uses 36 entites, 60 relations, 3 chunks
+2025-03-06 15:09:40,319 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 15:11:40,599 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 15:11:40,706 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 15:11:40,709 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 15:11:40,712 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 15:12:16,189 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 15:12:16,292 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 15:12:16,294 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 15:12:16,306 - lightrag - INFO - No new unique documents were found.
+2025-03-06 15:12:16,307 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 15:13:48,809 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 15:13:48,829 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 15:13:48,833 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 15:13:48,836 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 15:13:48,845 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 15:13:48,857 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 15:13:48,857 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 15:13:48,860 - lightrag - INFO - No new unique documents were found.
+2025-03-06 15:13:48,860 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 15:13:48,863 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-06 15:13:48,863 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-06 15:14:29,238 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 15:14:29,239 - lightrag - INFO - Query nodes: Trattamento dei dati sensibili, Basi giuridiche per il trattamento dei dati, Principi di minimizzazione, trasparenza e necessità, Diritti degli interessati, Eccezioni specifiche per i dati sensibili, top_k: 60, cosine: 0.2
+2025-03-06 15:14:33,373 - lightrag - INFO - Query edges: Raccolta dati personali, Consenso esplicito, GDPR, top_k: 60, cosine: 0.2
+2025-03-06 15:14:35,686 - lightrag - INFO - Global query uses 38 entites, 60 relations, 3 chunks
+2025-03-06 15:14:35,694 - lightrag - INFO - Local query uses 60 entites, 111 relations, 3 chunks
+2025-03-06 15:15:16,654 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 15:16:22,580 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 15:16:22,710 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 15:16:22,713 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 15:16:22,717 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 15:16:55,211 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 15:16:55,319 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 15:16:55,320 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 15:16:55,334 - lightrag - INFO - No new unique documents were found.
+2025-03-06 15:16:55,336 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 15:17:45,606 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 15:17:45,622 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 15:17:45,624 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 15:17:45,626 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 15:17:45,631 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 15:17:45,644 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 15:17:45,644 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 15:17:45,647 - lightrag - INFO - No new unique documents were found.
+2025-03-06 15:17:45,647 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 15:17:45,650 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-06 15:17:45,650 - lightrag - INFO - Non-embedding cached missed(mode:mix type:keywords)
+2025-03-06 15:18:09,341 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-06 15:18:09,341 - lightrag - WARNING - Both high-level and low-level keywords are empty
+2025-03-06 15:19:03,239 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-06 15:19:36,982 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 15:19:37,089 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 15:19:37,092 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 15:19:37,094 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 15:20:09,319 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 15:20:09,403 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 15:20:09,405 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 15:20:09,416 - lightrag - INFO - No new unique documents were found.
+2025-03-06 15:20:09,417 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 15:22:01,781 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-06 15:22:01,828 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-06 15:22:01,835 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-06 15:22:01,841 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-06 15:22:01,867 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-06 15:22:01,925 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-06 15:22:01,926 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-06 15:22:01,935 - lightrag - INFO - No new unique documents were found.
+2025-03-06 15:22:01,937 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-06 15:22:01,948 - lightrag - INFO - Non-embedding cached missed(mode:mix type:query)
+2025-03-06 15:22:01,949 - lightrag - INFO - Non-embedding cached hit(mode:mix type:keywords)
+2025-03-06 15:22:08,094 - lightrag - INFO - Query nodes: Consenso esplicito, Base legale per il trattamento dei dati, Esecuzione di un contratto, Obbligo legale, Interesse legittimo prevalente, Dati sensibili, Minimizzazione dei dati, Trasparenza del trattamento, top_k: 60, cosine: 0.2
+2025-03-06 15:22:11,102 - lightrag - INFO - Query edges: Conformità al GDPR, Raccolta dati personali senza consenso, Basi giuridiche per il trattamento dei dati, top_k: 60, cosine: 0.2
+2025-03-06 15:22:14,294 - lightrag - INFO - Global query uses 36 entites, 60 relations, 3 chunks
+2025-03-06 15:22:14,331 - lightrag - INFO - Local query uses 60 entites, 86 relations, 3 chunks
+2025-03-07 10:47:42,030 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-07 10:47:42,137 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-07 10:47:42,150 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-07 10:47:42,164 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-07 10:48:13,889 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-07 10:48:14,070 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-07 10:48:14,071 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-07 10:48:14,106 - lightrag - INFO - No new unique documents were found.
+2025-03-07 10:48:14,108 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-08 16:08:38,431 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-08 16:08:38,570 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-08 16:08:38,596 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-08 16:08:38,615 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-08 16:08:52,479 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-08 16:08:52,525 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-08 16:08:52,539 - lightrag - INFO - No new unique documents were found.
+2025-03-08 16:08:52,540 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-08 16:14:36,359 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-08 16:14:36,504 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-08 16:14:36,505 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-08 16:14:36,508 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-08 16:14:42,777 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-08 16:14:42,792 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-08 16:14:42,796 - lightrag - INFO - No new unique documents were found.
+2025-03-08 16:14:42,796 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-08 16:14:43,110 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:14:43,110 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:15:01,329 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-08 16:15:01,459 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-08 16:15:01,461 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-08 16:15:01,462 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-08 16:15:07,637 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-08 16:15:07,652 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-08 16:15:07,655 - lightrag - INFO - No new unique documents were found.
+2025-03-08 16:15:07,655 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-08 16:15:07,951 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:15:07,951 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:15:29,416 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:15:29,416 - lightrag - INFO - Query edges: Data privacy, Account creation, top_k: 60, cosine: 0.2
+2025-03-08 16:15:33,246 - lightrag - INFO - Global query uses 39 entites, 60 relations, 3 chunks
+2025-03-08 16:16:13,722 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-08 16:16:13,863 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-08 16:16:13,866 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-08 16:16:13,869 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-08 16:16:22,104 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-08 16:16:22,130 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-08 16:16:22,134 - lightrag - INFO - No new unique documents were found.
+2025-03-08 16:16:22,135 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-08 16:16:22,718 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:16:22,718 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:17:12,595 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:17:12,596 - lightrag - INFO - Query edges: Account creation, Personal information, User data, top_k: 60, cosine: 0.2
+2025-03-08 16:17:18,048 - lightrag - INFO - Global query uses 40 entites, 60 relations, 3 chunks
+2025-03-08 16:18:30,511 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:18:30,543 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:18:30,544 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:18:58,089 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:18:58,089 - lightrag - INFO - Query edges: Disclosures, Forwarding articles, Compliance, top_k: 60, cosine: 0.2
+2025-03-08 16:19:01,981 - lightrag - INFO - Global query uses 31 entites, 60 relations, 3 chunks
+2025-03-08 16:19:55,821 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:19:55,852 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:19:55,852 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:20:10,436 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 16:20:10,436 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 16:20:10,506 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:20:10,507 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:20:26,049 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 16:20:26,050 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 16:20:26,123 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:20:26,124 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:21:13,502 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 16:21:13,502 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 16:21:13,548 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:21:13,548 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:23:12,039 - lightrag - ERROR - JSON parsing error: Expecting value: line 2 column 32 (char 33)
+2025-03-08 16:23:12,040 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 16:23:12,119 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:23:12,120 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:23:33,416 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 16:23:33,417 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 16:23:33,492 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:23:33,493 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:24:30,261 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:24:30,262 - lightrag - INFO - Query edges: Children's online privacy, Data protection, Parental consent, top_k: 60, cosine: 0.2
+2025-03-08 16:24:35,424 - lightrag - INFO - Global query uses 35 entites, 60 relations, 3 chunks
+2025-03-08 16:25:52,462 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:25:52,566 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:25:52,567 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:26:12,669 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:26:12,670 - lightrag - INFO - Query edges: Authorization, Compliance, Confidentiality, top_k: 60, cosine: 0.2
+2025-03-08 16:26:16,495 - lightrag - INFO - Global query uses 32 entites, 60 relations, 3 chunks
+2025-03-08 16:27:15,244 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:27:15,274 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:27:15,274 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:27:30,706 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:27:30,706 - lightrag - INFO - Query edges: Information security, Data protection, Privacy, top_k: 60, cosine: 0.2
+2025-03-08 16:27:34,527 - lightrag - INFO - Global query uses 37 entites, 60 relations, 3 chunks
+2025-03-08 16:29:02,510 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:29:02,536 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:29:02,536 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:29:30,149 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:29:30,149 - lightrag - INFO - Query edges: Data Protection, Personally-Identifiable Information, Service Providers, Legislation, top_k: 60, cosine: 0.2
+2025-03-08 16:29:33,974 - lightrag - INFO - Global query uses 36 entites, 60 relations, 3 chunks
+2025-03-08 16:30:20,421 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:30:20,453 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:30:20,454 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:30:46,320 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:30:46,320 - lightrag - INFO - Query edges: Data Security, Protection, Personally-Identifiable Information, top_k: 60, cosine: 0.2
+2025-03-08 16:30:49,880 - lightrag - INFO - Global query uses 39 entites, 60 relations, 3 chunks
+2025-03-08 16:31:50,560 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:31:50,591 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:31:50,591 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:31:55,988 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 16:31:55,988 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 16:31:56,016 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:31:56,016 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:32:02,874 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 16:32:02,875 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 16:32:02,907 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:32:02,907 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:32:12,522 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 16:32:12,522 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 16:32:12,564 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:32:12,565 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:32:24,809 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:32:24,809 - lightrag - INFO - Query edges: Privacy, Data collection, GDPR, top_k: 60, cosine: 0.2
+2025-03-08 16:32:38,512 - lightrag - INFO - Global query uses 43 entites, 60 relations, 3 chunks
+2025-03-08 16:34:35,057 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:34:35,155 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:34:35,156 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:41:36,219 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-08 16:41:36,346 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-08 16:41:36,348 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-08 16:41:36,352 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-08 16:41:46,390 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-08 16:41:46,414 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-08 16:41:46,418 - lightrag - INFO - No new unique documents were found.
+2025-03-08 16:41:46,418 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-08 16:42:04,364 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-08 16:42:04,472 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-08 16:42:04,473 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-08 16:42:04,475 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-08 16:42:09,691 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-08 16:42:09,706 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-08 16:42:09,708 - lightrag - INFO - No new unique documents were found.
+2025-03-08 16:42:09,708 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-08 16:42:09,960 - lightrag - INFO - Non-embedding cached hit(mode:global type:query)
+2025-03-08 16:42:09,976 - lightrag - INFO - Non-embedding cached hit(mode:global type:query)
+2025-03-08 16:42:09,995 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:42:09,996 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:42:30,902 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:42:30,902 - lightrag - INFO - Query edges: Account management, Data retention, Security, top_k: 60, cosine: 0.2
+2025-03-08 16:42:34,682 - lightrag - INFO - Global query uses 34 entites, 60 relations, 3 chunks
+2025-03-08 16:43:27,480 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:43:27,506 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:43:27,506 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:43:42,511 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:43:42,511 - lightrag - INFO - Query edges: Account management, Data retention, Privacy, User deletion, top_k: 60, cosine: 0.2
+2025-03-08 16:43:46,377 - lightrag - INFO - Global query uses 42 entites, 60 relations, 3 chunks
+2025-03-08 16:44:40,503 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:44:40,529 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:44:40,529 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:44:48,346 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 16:44:48,346 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 16:44:48,374 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:44:48,374 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:45:08,885 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:45:08,885 - lightrag - INFO - Query edges: Privacy, Information collection, top_k: 60, cosine: 0.2
+2025-03-08 16:45:12,810 - lightrag - INFO - Global query uses 40 entites, 60 relations, 3 chunks
+2025-03-08 16:46:22,071 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:46:22,101 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:46:22,101 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:46:38,333 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:46:38,333 - lightrag - INFO - Query edges: Account security, Data protection, top_k: 60, cosine: 0.2
+2025-03-08 16:46:53,200 - lightrag - INFO - Global query uses 32 entites, 60 relations, 3 chunks
+2025-03-08 16:50:28,153 - lightrag - INFO - Logger initialized for working directory: ./
+2025-03-08 16:50:28,310 - lightrag - INFO - Load KV llm_response_cache with 4 data
+2025-03-08 16:50:28,312 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-08 16:50:28,315 - lightrag - INFO - Load KV text_chunks with 55 data
+2025-03-08 16:50:37,905 - lightrag - INFO - Loaded graph from ./graph_chunk_entity_relation.graphml with 320 nodes, 202 edges
+2025-03-08 16:50:37,932 - lightrag - INFO - Loaded document status storage with 1 records
+2025-03-08 16:50:37,935 - lightrag - INFO - No new unique documents were found.
+2025-03-08 16:50:37,936 - lightrag - INFO - All documents have been processed or are duplicates
+2025-03-08 16:50:38,235 - lightrag - INFO - Non-embedding cached hit(mode:global type:query)
+2025-03-08 16:50:38,252 - lightrag - INFO - Non-embedding cached hit(mode:global type:query)
+2025-03-08 16:50:38,268 - lightrag - INFO - Non-embedding cached hit(mode:global type:query)
+2025-03-08 16:50:38,286 - lightrag - INFO - Non-embedding cached hit(mode:global type:query)
+2025-03-08 16:50:38,301 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:50:38,301 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:50:52,496 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:50:52,497 - lightrag - INFO - Query edges: Information sharing, Privacy, Search engine visibility, Content management, top_k: 60, cosine: 0.2
+2025-03-08 16:50:56,296 - lightrag - INFO - Global query uses 35 entites, 60 relations, 3 chunks
+2025-03-08 16:51:30,973 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:51:30,995 - lightrag - INFO - Non-embedding cached hit(mode:global type:query)
+2025-03-08 16:51:31,015 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:51:31,015 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:51:46,936 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:51:46,936 - lightrag - INFO - Query edges: Account security, Data protection, Access control, top_k: 60, cosine: 0.2
+2025-03-08 16:51:50,779 - lightrag - INFO - Global query uses 34 entites, 60 relations, 3 chunks
+2025-03-08 16:52:24,532 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:52:24,559 - lightrag - INFO - Non-embedding cached hit(mode:global type:query)
+2025-03-08 16:52:24,597 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:52:24,598 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:52:33,013 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 16:52:33,014 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 16:52:50,547 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:52:50,547 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:54:06,680 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:54:06,680 - lightrag - INFO - Query edges: privacy, user information, data collection, service providers, top_k: 60, cosine: 0.2
+2025-03-08 16:54:10,538 - lightrag - INFO - Global query uses 38 entites, 60 relations, 3 chunks
+2025-03-08 16:54:39,995 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:54:40,036 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:54:40,037 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:54:54,957 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:54:54,957 - lightrag - INFO - Query edges: Copyright, Data Protection, Service Provider, top_k: 60, cosine: 0.2
+2025-03-08 16:54:58,869 - lightrag - INFO - Global query uses 30 entites, 60 relations, 3 chunks
+2025-03-08 16:55:28,361 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:55:43,089 - lightrag - INFO - Non-embedding cached hit(mode:global type:query)
+2025-03-08 16:55:43,109 - lightrag - INFO - Non-embedding cached hit(mode:global type:query)
+2025-03-08 16:55:43,131 - lightrag - INFO - Non-embedding cached hit(mode:global type:query)
+2025-03-08 16:55:43,152 - lightrag - INFO - Non-embedding cached hit(mode:global type:query)
+2025-03-08 16:55:43,174 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:55:43,174 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:56:09,175 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:56:09,175 - lightrag - INFO - Query edges: Data protection, Information sharing, top_k: 60, cosine: 0.2
+2025-03-08 16:56:13,037 - lightrag - INFO - Global query uses 30 entites, 60 relations, 3 chunks
+2025-03-08 16:56:45,629 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:56:45,653 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:56:45,653 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:57:03,341 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:57:03,342 - lightrag - INFO - Query edges: Online safety, Child protection, top_k: 60, cosine: 0.2
+2025-03-08 16:57:07,214 - lightrag - INFO - Global query uses 25 entites, 60 relations, 3 chunks
+2025-03-08 16:57:37,735 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:57:37,760 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:57:37,760 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:57:55,667 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:57:55,667 - lightrag - INFO - Query edges: California residents, Compliance with law, Privacy rights, Minnesota Vikings, Data protection, top_k: 60, cosine: 0.2
+2025-03-08 16:57:59,647 - lightrag - INFO - Global query uses 36 entites, 60 relations, 3 chunks
+2025-03-08 16:58:46,800 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:58:46,831 - lightrag - INFO - Non-embedding cached hit(mode:global type:query)
+2025-03-08 16:58:46,915 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:58:46,916 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 16:59:02,192 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:59:02,192 - lightrag - INFO - Query edges: Data sharing, Security measures, User information protection, Third-party involvement, top_k: 60, cosine: 0.2
+2025-03-08 16:59:06,144 - lightrag - INFO - Global query uses 25 entites, 60 relations, 3 chunks
+2025-03-08 16:59:36,018 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 16:59:51,703 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 16:59:51,703 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:02:45,363 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:02:45,365 - lightrag - INFO - Query edges: User information sharing, Third-party collection, Data security, top_k: 60, cosine: 0.2
+2025-03-08 17:02:50,495 - lightrag - INFO - Global query uses 31 entites, 60 relations, 3 chunks
+2025-03-08 17:03:28,066 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:03:28,123 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:03:28,123 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:04:11,365 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:04:11,366 - lightrag - INFO - Query edges: Data sharing, User information, Online advertising, Analytics, Privacy, top_k: 60, cosine: 0.2
+2025-03-08 17:04:16,687 - lightrag - INFO - Global query uses 38 entites, 60 relations, 3 chunks
+2025-03-08 17:05:00,693 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:05:19,938 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:05:19,939 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:07:27,168 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:07:27,169 - lightrag - INFO - Query edges: User information, Data sharing, Third parties, Advertising, Cookies, top_k: 60, cosine: 0.2
+2025-03-08 17:07:31,010 - lightrag - INFO - Global query uses 34 entites, 60 relations, 3 chunks
+2025-03-08 17:08:01,312 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:08:16,463 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:08:16,465 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:09:36,704 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 17:09:36,705 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 17:09:52,886 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:09:52,887 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:10:16,933 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:10:16,934 - lightrag - INFO - Query edges: Politica della privacy, Informazioni degli utenti, Condivisione dei dati, Sicurezza online, top_k: 60, cosine: 0.2
+2025-03-08 17:10:20,843 - lightrag - INFO - Global query uses 35 entites, 60 relations, 3 chunks
+2025-03-08 17:10:50,398 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:10:50,425 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:10:50,425 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:11:01,738 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:11:01,738 - lightrag - INFO - Query edges: User information sharing, Third party involvement, Identity verification, top_k: 60, cosine: 0.2
+2025-03-08 17:11:05,732 - lightrag - INFO - Global query uses 25 entites, 60 relations, 3 chunks
+2025-03-08 17:11:35,036 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:11:51,696 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:11:51,696 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:12:19,473 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:12:19,474 - lightrag - INFO - Query edges: Data protection, User information, Third-party sharing, top_k: 60, cosine: 0.2
+2025-03-08 17:12:34,656 - lightrag - INFO - Global query uses 25 entites, 60 relations, 3 chunks
+2025-03-08 17:14:18,974 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:14:33,992 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:14:33,993 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:15:06,710 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:15:06,711 - lightrag - INFO - Query edges: Data sharing, Privacy, User information, top_k: 60, cosine: 0.2
+2025-03-08 17:15:20,709 - lightrag - INFO - Global query uses 39 entites, 60 relations, 3 chunks
+2025-03-08 17:16:31,809 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:16:51,312 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:16:51,312 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:17:05,741 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:17:05,742 - lightrag - INFO - Query edges: Data sharing, User information privacy, Third-party interactions, top_k: 60, cosine: 0.2
+2025-03-08 17:17:09,586 - lightrag - INFO - Global query uses 37 entites, 60 relations, 3 chunks
+2025-03-08 17:17:38,737 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:17:55,351 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:17:55,352 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:18:59,519 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 17:18:59,520 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 17:18:59,544 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:18:59,544 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:19:06,414 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 17:19:06,414 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 17:19:06,449 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:19:06,450 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:19:15,772 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:19:15,772 - lightrag - INFO - Query edges: Registration, Participation, Programs, top_k: 60, cosine: 0.2
+2025-03-08 17:19:19,617 - lightrag - INFO - Global query uses 47 entites, 60 relations, 3 chunks
+2025-03-08 17:20:32,485 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:20:32,518 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:20:32,518 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:20:46,734 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:20:46,734 - lightrag - INFO - Query edges: Cookie usage, Data collection methods, Privacy concerns, top_k: 60, cosine: 0.2
+2025-03-08 17:20:50,688 - lightrag - INFO - Global query uses 39 entites, 60 relations, 3 chunks
+2025-03-08 17:22:21,003 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:22:21,036 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:22:21,038 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:22:36,981 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:22:36,981 - lightrag - INFO - Query edges: Privacy, Information update, top_k: 60, cosine: 0.2
+2025-03-08 17:22:40,841 - lightrag - INFO - Global query uses 38 entites, 60 relations, 3 chunks
+2025-03-08 17:23:45,119 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:23:45,204 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:23:45,204 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:24:08,590 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:24:08,590 - lightrag - INFO - Query edges: Privacy, Third-party content, Affiliates, Data collection, Endorsement, top_k: 60, cosine: 0.2
+2025-03-08 17:24:22,690 - lightrag - INFO - Global query uses 35 entites, 60 relations, 3 chunks
+2025-03-08 17:26:12,966 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:26:13,007 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:26:13,008 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:26:54,904 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:26:54,905 - lightrag - INFO - Query edges: Data aggregation, Financial institutions, Personal Information, Privacy, Security, Data protection, Information sharing, Financial security, top_k: 60, cosine: 0.2
+2025-03-08 17:26:58,831 - lightrag - INFO - Global query uses 35 entites, 60 relations, 3 chunks
+2025-03-08 17:27:59,224 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:27:59,256 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:27:59,256 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:28:18,713 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:28:18,713 - lightrag - INFO - Query edges: Privacy, Data Protection, top_k: 60, cosine: 0.2
+2025-03-08 17:28:22,757 - lightrag - INFO - Global query uses 36 entites, 60 relations, 3 chunks
+2025-03-08 17:28:58,106 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:28:58,217 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:28:58,217 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:29:09,636 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:29:09,636 - lightrag - INFO - Query edges: User control, Security options, Data protection, top_k: 60, cosine: 0.2
+2025-03-08 17:29:23,590 - lightrag - INFO - Global query uses 36 entites, 60 relations, 3 chunks
+2025-03-08 17:31:11,654 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:31:27,439 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:31:27,439 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:31:49,567 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:31:49,568 - lightrag - INFO - Query edges: Sicurezza, Informazione riservata, top_k: 60, cosine: 0.2
+2025-03-08 17:32:03,989 - lightrag - INFO - Global query uses 37 entites, 60 relations, 3 chunks
+2025-03-08 17:33:00,712 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:33:00,738 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:33:00,739 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:33:19,454 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:33:19,455 - lightrag - INFO - Query edges: User experience, Data collection, User control, Privacy, top_k: 60, cosine: 0.2
+2025-03-08 17:33:23,304 - lightrag - INFO - Global query uses 47 entites, 60 relations, 3 chunks
+2025-03-08 17:33:53,615 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:34:06,971 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:34:06,971 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:35:22,801 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:35:22,802 - lightrag - INFO - Query edges: User data collection, Privacy policies, Data protection, top_k: 60, cosine: 0.2
+2025-03-08 17:35:38,422 - lightrag - INFO - Global query uses 34 entites, 60 relations, 3 chunks
+2025-03-08 17:36:15,339 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:36:29,308 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:36:29,308 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:36:50,058 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:36:50,058 - lightrag - INFO - Query edges: Choices, Control options, User experience, Privacy, top_k: 60, cosine: 0.2
+2025-03-08 17:37:04,077 - lightrag - INFO - Global query uses 40 entites, 60 relations, 3 chunks
+2025-03-08 17:38:29,131 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:38:45,503 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:38:45,504 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:39:12,319 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:39:12,320 - lightrag - INFO - Query edges: Descrizione della clausola, Ozioni di controllo per gli utenti, top_k: 60, cosine: 0.2
+2025-03-08 17:39:16,250 - lightrag - INFO - Global query uses 32 entites, 60 relations, 3 chunks
+2025-03-08 17:39:46,733 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:39:46,777 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:39:46,777 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:40:05,368 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:40:05,368 - lightrag - INFO - Query edges: Clause, Choices, Control options, User experience, top_k: 60, cosine: 0.2
+2025-03-08 17:40:09,360 - lightrag - INFO - Global query uses 45 entites, 60 relations, 3 chunks
+2025-03-08 17:40:40,130 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:42:12,161 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:42:12,161 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:42:46,734 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:42:46,735 - lightrag - INFO - Query edges: User experience, Privacy policy, Data collection, top_k: 60, cosine: 0.2
+2025-03-08 17:42:50,580 - lightrag - INFO - Global query uses 42 entites, 60 relations, 3 chunks
+2025-03-08 17:43:19,808 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:43:19,832 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:43:19,832 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:43:37,972 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:43:37,973 - lightrag - INFO - Query edges: User experience, Third-party service providers, Data security, top_k: 60, cosine: 0.2
+2025-03-08 17:43:41,956 - lightrag - INFO - Global query uses 37 entites, 60 relations, 3 chunks
+2025-03-08 17:44:11,222 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:44:30,967 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:44:30,968 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:46:05,057 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:46:05,058 - lightrag - INFO - Query edges: Data protection, User choice, Control options, Privacy policy, top_k: 60, cosine: 0.2
+2025-03-08 17:46:08,864 - lightrag - INFO - Global query uses 38 entites, 60 relations, 3 chunks
+2025-03-08 17:46:42,838 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:46:42,876 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:46:42,876 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:47:01,059 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:47:01,059 - lightrag - INFO - Query edges: User choice, Control options, Privacy settings, top_k: 60, cosine: 0.2
+2025-03-08 17:47:04,926 - lightrag - INFO - Global query uses 52 entites, 60 relations, 3 chunks
+2025-03-08 17:47:35,946 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:47:53,698 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:47:53,698 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:48:34,320 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:48:34,321 - lightrag - INFO - Query edges: Choices, Control Options, User Experience, Website Management, top_k: 60, cosine: 0.2
+2025-03-08 17:48:38,374 - lightrag - INFO - Global query uses 42 entites, 60 relations, 3 chunks
+2025-03-08 17:49:08,875 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:49:25,890 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:49:25,890 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:49:53,525 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:49:53,525 - lightrag - INFO - Query edges: Web sites, Control options, Choices available, top_k: 60, cosine: 0.2
+2025-03-08 17:49:57,368 - lightrag - INFO - Global query uses 34 entites, 60 relations, 3 chunks
+2025-03-08 17:50:28,127 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:50:28,166 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:50:28,166 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:50:47,916 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:50:47,916 - lightrag - INFO - Query edges: Clause, top_k: 60, cosine: 0.2
+2025-03-08 17:50:51,765 - lightrag - INFO - Global query uses 40 entites, 60 relations, 3 chunks
+2025-03-08 17:51:19,871 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:51:37,981 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:51:37,982 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:52:57,030 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:52:57,031 - lightrag - INFO - Query edges: Privacy rights, California laws, Resident information, top_k: 60, cosine: 0.2
+2025-03-08 17:53:10,999 - lightrag - INFO - Global query uses 42 entites, 60 relations, 3 chunks
+2025-03-08 17:54:35,498 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:54:35,519 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:54:35,519 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:54:51,686 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:54:51,687 - lightrag - INFO - Query edges: California Privacy Rights, Data Sharing, Consumer Protection, top_k: 60, cosine: 0.2
+2025-03-08 17:54:55,553 - lightrag - INFO - Global query uses 38 entites, 60 relations, 3 chunks
+2025-03-08 17:55:33,010 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:55:33,040 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:55:33,041 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:55:46,032 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:55:46,033 - lightrag - INFO - Query edges: Children's information, Data collection, Age restrictions, top_k: 60, cosine: 0.2
+2025-03-08 17:55:49,900 - lightrag - INFO - Global query uses 46 entites, 60 relations, 3 chunks
+2025-03-08 17:56:42,318 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:56:42,353 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:56:42,354 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:56:58,810 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:56:58,810 - lightrag - INFO - Query edges: General audiences, Personal information, Children under 13, Privacy policies, top_k: 60, cosine: 0.2
+2025-03-08 17:57:02,662 - lightrag - INFO - Global query uses 40 entites, 60 relations, 3 chunks
+2025-03-08 17:57:55,096 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:57:55,127 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:57:55,128 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:58:04,774 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:58:04,776 - lightrag - INFO - Query edges: Data privacy, The Walt Disney Family of Companies, top_k: 60, cosine: 0.2
+2025-03-08 17:58:08,951 - lightrag - INFO - Global query uses 36 entites, 60 relations, 3 chunks
+2025-03-08 17:58:41,076 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:58:41,108 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:58:41,108 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:58:52,461 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 17:58:52,461 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 17:58:52,496 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 17:58:52,496 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 17:58:58,827 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 17:58:58,828 - lightrag - INFO - Query edges: Business acquisition, Partnership, Mergers and acquisitions, top_k: 60, cosine: 0.2
+2025-03-08 17:59:02,712 - lightrag - INFO - Global query uses 41 entites, 60 relations, 3 chunks
+2025-03-08 18:00:57,934 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:00:57,970 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:00:57,971 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:01:05,738 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 18:01:05,739 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 18:01:05,843 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:01:05,843 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:01:18,785 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 18:01:18,785 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 18:01:34,378 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:01:34,378 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:01:54,264 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:01:54,264 - lightrag - INFO - Query edges: Data security, User information, Access rights, Privacy policies, top_k: 60, cosine: 0.2
+2025-03-08 18:01:58,154 - lightrag - INFO - Global query uses 36 entites, 60 relations, 3 chunks
+2025-03-08 18:02:26,995 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:02:42,107 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:02:42,107 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:03:10,246 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:03:10,246 - lightrag - INFO - Query edges: Service providers, Retained services, top_k: 60, cosine: 0.2
+2025-03-08 18:03:14,170 - lightrag - INFO - Global query uses 35 entites, 60 relations, 3 chunks
+2025-03-08 18:04:21,531 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:04:21,562 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:04:21,563 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:04:35,505 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:04:35,506 - lightrag - INFO - Query edges: Advertising, Marketing Partnerships, Social Media Platforms, top_k: 60, cosine: 0.2
+2025-03-08 18:04:39,390 - lightrag - INFO - Global query uses 38 entites, 60 relations, 3 chunks
+2025-03-08 18:05:57,982 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:05:58,011 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:05:58,011 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:06:09,319 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:06:09,320 - lightrag - INFO - Query edges: Contractor, Service provider, top_k: 60, cosine: 0.2
+2025-03-08 18:06:13,185 - lightrag - INFO - Global query uses 32 entites, 60 relations, 3 chunks
+2025-03-08 18:07:12,747 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:07:12,777 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:07:12,777 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:07:30,202 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:07:30,202 - lightrag - INFO - Query edges: Marketing, Advertising, Partnerships, Social Media, top_k: 60, cosine: 0.2
+2025-03-08 18:07:34,017 - lightrag - INFO - Global query uses 33 entites, 60 relations, 3 chunks
+2025-03-08 18:08:52,656 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:08:52,685 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:08:52,685 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:09:05,116 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 18:09:05,117 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 18:09:05,146 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:09:05,147 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:09:17,286 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:09:17,287 - lightrag - INFO - Query edges: Phone calls, Caller preferences, Subscription management, top_k: 60, cosine: 0.2
+2025-03-08 18:09:21,098 - lightrag - INFO - Global query uses 42 entites, 60 relations, 3 chunks
+2025-03-08 18:09:55,532 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:09:55,566 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:09:55,568 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:10:04,537 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 18:10:04,537 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 18:10:04,569 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:10:04,569 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:10:23,929 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:10:23,929 - lightrag - INFO - Query edges: Data security, Internet security, System security, top_k: 60, cosine: 0.2
+2025-03-08 18:10:27,826 - lightrag - INFO - Global query uses 31 entites, 60 relations, 3 chunks
+2025-03-08 18:11:34,490 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:11:34,571 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:11:34,572 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:11:52,259 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:11:52,259 - lightrag - INFO - Query edges: Data storage, Privacy, top_k: 60, cosine: 0.2
+2025-03-08 18:11:56,103 - lightrag - INFO - Global query uses 39 entites, 60 relations, 3 chunks
+2025-03-08 18:12:25,400 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:13:44,651 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:13:44,651 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:14:23,169 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:14:23,170 - lightrag - INFO - Query edges: Data storage, User information, Personal data, top_k: 60, cosine: 0.2
+2025-03-08 18:14:27,159 - lightrag - INFO - Global query uses 39 entites, 60 relations, 3 chunks
+2025-03-08 18:14:56,659 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:15:11,219 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:15:11,220 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:16:23,480 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 18:16:23,481 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 18:16:42,086 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:16:42,088 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:17:49,110 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:17:49,111 - lightrag - INFO - Query edges: Data storage, User privacy, Children's protection, top_k: 60, cosine: 0.2
+2025-03-08 18:17:52,914 - lightrag - INFO - Global query uses 36 entites, 60 relations, 3 chunks
+2025-03-08 18:18:22,514 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:18:40,492 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:18:40,492 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:19:26,890 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:19:26,890 - lightrag - INFO - Query edges: Data storage, User information, Retention period, top_k: 60, cosine: 0.2
+2025-03-08 18:19:41,339 - lightrag - INFO - Global query uses 36 entites, 60 relations, 3 chunks
+2025-03-08 18:20:19,333 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:20:38,148 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:20:38,148 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:21:06,703 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:21:06,704 - lightrag - INFO - Query edges: Data storage, Privacy policies, top_k: 60, cosine: 0.2
+2025-03-08 18:21:23,841 - lightrag - INFO - Global query uses 32 entites, 60 relations, 3 chunks
+2025-03-08 18:22:37,277 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:22:37,311 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:22:37,311 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:22:53,030 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:22:53,030 - lightrag - INFO - Query edges: Data storage, Privacy policy, User information, top_k: 60, cosine: 0.2
+2025-03-08 18:22:56,917 - lightrag - INFO - Global query uses 42 entites, 60 relations, 3 chunks
+2025-03-08 18:23:27,180 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:24:53,103 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:24:53,103 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:25:23,659 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:25:23,659 - lightrag - INFO - Query edges: Data storage, User information, Privacy, top_k: 60, cosine: 0.2
+2025-03-08 18:25:27,839 - lightrag - INFO - Global query uses 42 entites, 60 relations, 3 chunks
+2025-03-08 18:25:58,718 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:26:14,963 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:26:14,964 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:27:18,240 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 18:27:18,240 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 18:27:18,266 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:27:18,266 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:27:49,821 - lightrag - ERROR - JSON parsing error: Extra data: line 5 column 1 (char 247)
+2025-03-08 18:27:49,821 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 18:27:49,850 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:27:49,850 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:28:11,452 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:28:11,453 - lightrag - INFO - Query edges: Data Privacy, Access to Records, Personal Information, top_k: 60, cosine: 0.2
+2025-03-08 18:28:15,396 - lightrag - INFO - Global query uses 39 entites, 60 relations, 3 chunks
+2025-03-08 18:29:04,975 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:29:05,009 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:29:05,009 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:29:21,203 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:29:21,204 - lightrag - INFO - Query edges: Data correction, Record maintenance, Accuracy, Inaccuracies, top_k: 60, cosine: 0.2
+2025-03-08 18:29:25,143 - lightrag - INFO - Global query uses 39 entites, 60 relations, 3 chunks
+2025-03-08 18:30:30,833 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:30:30,861 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:30:30,861 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:30:36,938 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 18:30:36,939 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 18:30:36,967 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:30:36,967 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:30:50,533 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:30:50,533 - lightrag - INFO - Query edges: Privacy, Data sharing, top_k: 60, cosine: 0.2
+2025-03-08 18:30:54,347 - lightrag - INFO - Global query uses 36 entites, 60 relations, 3 chunks
+2025-03-08 18:31:54,626 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:31:54,653 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:31:54,654 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:32:08,183 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:32:08,183 - lightrag - INFO - Query edges: Permission, Contact List, top_k: 60, cosine: 0.2
+2025-03-08 18:32:11,961 - lightrag - INFO - Global query uses 39 entites, 60 relations, 3 chunks
+2025-03-08 18:33:03,486 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:33:03,517 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:33:03,517 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:33:47,322 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:33:47,322 - lightrag - INFO - Query edges: Opting out, Advertising, top_k: 60, cosine: 0.2
+2025-03-08 18:34:02,155 - lightrag - INFO - Global query uses 38 entites, 60 relations, 3 chunks
+2025-03-08 18:35:07,747 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:35:07,802 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:35:07,802 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:35:20,031 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:35:20,032 - lightrag - INFO - Query edges: Data protection, User information, Privacy policy, top_k: 60, cosine: 0.2
+2025-03-08 18:35:23,763 - lightrag - INFO - Global query uses 36 entites, 60 relations, 3 chunks
+2025-03-08 18:35:52,205 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:37:04,558 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:37:04,558 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:37:24,536 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:37:24,536 - lightrag - INFO - Query edges: Data protection, User information, Privacy, top_k: 60, cosine: 0.2
+2025-03-08 18:37:28,371 - lightrag - INFO - Global query uses 34 entites, 60 relations, 3 chunks
+2025-03-08 18:37:56,780 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:38:15,454 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:38:15,455 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:38:37,850 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:38:37,850 - lightrag - INFO - Query edges: Data protection, User information, Privacy, top_k: 60, cosine: 0.2
+2025-03-08 18:38:41,756 - lightrag - INFO - Global query uses 34 entites, 60 relations, 3 chunks
+2025-03-08 18:39:10,576 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:39:27,341 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:39:27,341 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:39:51,975 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:39:51,975 - lightrag - INFO - Query edges: Data Protection, User Information, Privacy, top_k: 60, cosine: 0.2
+2025-03-08 18:39:55,939 - lightrag - INFO - Global query uses 34 entites, 60 relations, 3 chunks
+2025-03-08 18:40:24,977 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:41:09,724 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:41:09,725 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:41:39,981 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:41:39,982 - lightrag - INFO - Query edges: User information, Protected, Clause, Data protection, top_k: 60, cosine: 0.2
+2025-03-08 18:41:53,725 - lightrag - INFO - Global query uses 35 entites, 60 relations, 3 chunks
+2025-03-08 18:42:48,043 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:43:05,302 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:43:05,303 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:43:27,726 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 18:43:27,726 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 18:43:27,751 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:43:27,751 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:43:56,341 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:43:56,342 - lightrag - INFO - Query edges: Data Protection, User Information, Privacy Policies, top_k: 60, cosine: 0.2
+2025-03-08 18:44:00,244 - lightrag - INFO - Global query uses 34 entites, 60 relations, 3 chunks
+2025-03-08 18:44:28,792 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:44:44,926 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:44:44,926 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:45:09,874 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:45:09,874 - lightrag - INFO - Query edges: Data Protection, User Information, Privacy, top_k: 60, cosine: 0.2
+2025-03-08 18:45:23,931 - lightrag - INFO - Global query uses 34 entites, 60 relations, 3 chunks
+2025-03-08 18:46:25,450 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:46:42,114 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:46:42,114 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:47:06,127 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:47:06,128 - lightrag - INFO - Query edges: Informazione utente, Protezione dati, top_k: 60, cosine: 0.2
+2025-03-08 18:47:10,031 - lightrag - INFO - Global query uses 41 entites, 60 relations, 3 chunks
+2025-03-08 18:47:45,380 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:47:45,466 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:47:45,467 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:47:54,067 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 18:47:54,068 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 18:47:54,099 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:47:54,100 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:48:17,571 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 18:48:17,572 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 18:48:17,600 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:48:17,601 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:48:23,571 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 18:48:23,571 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 18:48:23,608 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:48:23,608 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:48:34,621 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:48:34,621 - lightrag - INFO - Query edges: Internet browser settings, Cookies, top_k: 60, cosine: 0.2
+2025-03-08 18:48:38,535 - lightrag - INFO - Global query uses 38 entites, 60 relations, 3 chunks
+2025-03-08 18:49:14,543 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:49:14,573 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:49:14,573 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:50:05,473 - lightrag - ERROR - JSON parsing error: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2025-03-08 18:50:05,473 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 18:50:05,502 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:50:05,502 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:50:15,177 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 18:50:15,177 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 18:50:15,209 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:50:15,210 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:50:37,473 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:50:37,473 - lightrag - INFO - Query edges: Data Security, Information Confidentiality, Research Management, top_k: 60, cosine: 0.2
+2025-03-08 18:50:41,318 - lightrag - INFO - Global query uses 35 entites, 60 relations, 3 chunks
+2025-03-08 18:51:13,538 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:51:13,569 - lightrag - INFO - Non-embedding cached hit(mode:global type:query)
+2025-03-08 18:51:13,602 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:51:13,603 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:51:17,978 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 18:51:17,978 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 18:51:35,603 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:51:35,603 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:51:49,274 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:51:49,274 - lightrag - INFO - Query edges: Descrizione di pratiche, Gruppi di utenti, Advertising, Messaggi pubblicitari, top_k: 60, cosine: 0.2
+2025-03-08 18:51:53,187 - lightrag - INFO - Global query uses 61 entites, 60 relations, 3 chunks
+2025-03-08 18:52:23,947 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:52:23,970 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:52:23,971 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:52:36,221 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 18:52:36,222 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 18:52:51,823 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:52:51,823 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:53:16,848 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 18:53:16,848 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 18:53:16,877 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:53:16,877 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:53:36,336 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:53:36,337 - lightrag - INFO - Query edges: Consumer Rights, Credit Reporting, Opt-out Options, top_k: 60, cosine: 0.2
+2025-03-08 18:53:40,210 - lightrag - INFO - Global query uses 41 entites, 60 relations, 3 chunks
+2025-03-08 18:54:17,249 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:54:37,067 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:54:37,067 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:55:09,825 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:55:09,825 - lightrag - INFO - Query edges: COPPA, Child privacy, Personal data protection, top_k: 60, cosine: 0.2
+2025-03-08 18:55:13,795 - lightrag - INFO - Global query uses 36 entites, 60 relations, 3 chunks
+2025-03-08 18:55:42,881 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:55:59,587 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:55:59,588 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:56:29,310 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:56:29,311 - lightrag - INFO - Query edges: Specific groups, User practices, Privacy policy, top_k: 60, cosine: 0.2
+2025-03-08 18:56:33,197 - lightrag - INFO - Global query uses 42 entites, 60 relations, 3 chunks
+2025-03-08 18:57:01,792 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:57:19,406 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:57:19,407 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:58:36,791 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:58:36,792 - lightrag - INFO - Query edges: Cookie usage, Data collection, User privacy, top_k: 60, cosine: 0.2
+2025-03-08 18:58:40,633 - lightrag - INFO - Global query uses 40 entites, 60 relations, 3 chunks
+2025-03-08 18:59:08,814 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 18:59:26,935 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 18:59:26,935 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 18:59:38,107 - lightrag - ERROR - No JSON-like structure found in the LLM respond.
+2025-03-08 18:59:38,108 - lightrag - WARNING - low_level_keywords and high_level_keywords is empty
+2025-03-08 19:00:33,803 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 19:00:33,804 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 19:00:48,987 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 19:00:48,987 - lightrag - INFO - Query edges: Classe di una frase, Privacy, Terze parti, top_k: 60, cosine: 0.2
+2025-03-08 19:00:52,839 - lightrag - INFO - Global query uses 49 entites, 60 relations, 3 chunks
+2025-03-08 19:01:27,698 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 19:01:27,724 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 19:01:27,724 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 19:01:45,384 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 19:01:45,385 - lightrag - INFO - Query edges: Privacy, Data protection, User rights, top_k: 60, cosine: 0.2
+2025-03-08 19:01:49,200 - lightrag - INFO - Global query uses 35 entites, 60 relations, 3 chunks
+2025-03-08 19:02:19,082 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 19:02:33,900 - lightrag - INFO - Non-embedding cached missed(mode:global type:query)
+2025-03-08 19:02:33,900 - lightrag - INFO - Non-embedding cached missed(mode:global type:keywords)
+2025-03-08 19:03:54,509 - lightrag - INFO - Inserting 1 to llm_response_cache
+2025-03-08 19:03:54,509 - lightrag - INFO - Query edges: Specific group of users, Practices pertaining, Personally Identifiable Information, top_k: 60, cosine: 0.2
+2025-03-08 19:03:58,345 - lightrag - INFO - Global query uses 48 entites, 60 relations, 3 chunks
+2025-03-08 19:04:29,001 - lightrag - INFO - Inserting 1 to llm_response_cache

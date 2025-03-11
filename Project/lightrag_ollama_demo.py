@@ -104,7 +104,7 @@ if prompt:
                 response_placeholder = st.empty()
                 response_text = ""
                 no_context_pattern=re.compile(r"\b(no-context)\b", re.IGNORECASE)
-                llama_query = st.session_state.agent.query(prompt,system_prompt="You are a Reasoner, an agent specialized in analyzing and solving complex questions through problem decomposition, concept explanation, and structured reasoning. When you receive a question: provide a clear and complete explanation of the relevant concepts, break down the problem into simple sub-questions and answer each one, use the answers to the sub-questions to build a coherent and well-justified reasoning process leading to the final answer, your response must be clear, well-structured, and supported by step-by-step justification.")
+                llama_query = st.session_state.agent.query(prompt,param=QueryParam(mode="mix"),system_prompt="You are a Reasoner, an agent specialized in analyzing and solving complex questions through problem decomposition, concept explanation, and structured reasoning. When you receive a question: provide a clear and complete explanation of the relevant concepts, break down the problem into simple sub-questions and answer each one, use the answers to the sub-questions to build a coherent and well-justified reasoning process leading to the final answer, your response must be clear, well-structured, and supported by step-by-step justification.")
                 if no_context_pattern.search(llama_query):
                     llama_query="Non è stato possibile rispondere adeguatamente in base al contesto fornito. Riprova."
                 for word in llama_query.split():
