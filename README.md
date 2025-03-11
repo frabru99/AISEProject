@@ -19,5 +19,17 @@ The system is built upon **LightRAG**, a retrieval-augmented generation framewor
 
 By combining causal reasoning with retrieval-augmented generation, LightPrivacy bridges the gap between legal complexity and practical usability, providing an accessible, interpretable, and reliable tool for GDPR compliance verification.
 
+# How to run
+**Note**: in order to run the demo properly, you must have the 3.12 version for Python.
+**Note**: before starting with this brief guide, you have to install Ollama on your pc and pull the same models described in the repo.
+
+- Download the .zip file containing the source file from the "Release" section
+- Go to "AISE Project" folder:
+```bash
+cd LIGHTRAG PULITO/LIGHTRAG/AISE Project/
+- Run the script:
+```bash
+python lightrag_ollama_demo.py
+
 # Credits 
 - https://github.com/HKUDS/LightRAG
