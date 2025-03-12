@@ -22,6 +22,7 @@ By combining causal reasoning with retrieval-augmented generation, LightPrivacy 
 # How to run
 **Note**: in order to run the demo properly, you must have the 3.12 version for Python.
 **Note**: before starting with this brief guide, you have to install Ollama on your pc and pull the same models described in the repo.
+**Note**: install requirements before starting
 
 - Download the .zip file containing the source file from the "Release" section
 - Go to "AISE Project" folder:
