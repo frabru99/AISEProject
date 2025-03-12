@@ -8,6 +8,7 @@ jobs:
   example-job:
     if: github.actor != 'github-actions[bot]'  # Salta se il commit è del bot
     runs-on: ubuntu-latest
+    environment: "Action RAGUpdate"
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
